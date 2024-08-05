@@ -1,6 +1,6 @@
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
 from langchain.prompts import PromptTemplate
-from langchain.llms import LLMChain
+from langchain.chains import LLMChain
 import os
 import streamlit as st
 from PyPDF2 import PdfReader
