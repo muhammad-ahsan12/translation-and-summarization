@@ -1,4 +1,4 @@
 langchain==0.2.12
 langchain-google-genai
-streamlit
+streamlit==1.37.0
 PyPDF2
